@@ -2,9 +2,7 @@
 Chatbot project to convert text to speech
 # -*- coding: utf-8 -*-
 """
-Created on Sat May 27 22:27:34 2023
 
-@author: MRUTYUNJAY
 """
 
 import pyttsx3
